@@ -1,3 +1,0 @@
-[submodule "sdl-c"]
-	path = c
-	url = https://github.com/spurious/SDL-mirror.git

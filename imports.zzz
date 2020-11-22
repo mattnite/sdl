@@ -1,0 +1,4 @@
+sdl2_c:
+  root: /
+  src: url: "https://www.libsdl.org/release/SDL2-2.0.12.tar.gz"
+  integrity: sha256: 349268f695c02efbc9b9148a70b85e58cefbbf704abd3e91be654db7f1e2c863

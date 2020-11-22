@@ -1,1 +1,4 @@
+deps.zig
 zig-cache
+zig-deps
+build_runner.zig
